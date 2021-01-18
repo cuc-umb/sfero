@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690891722604",
+    "project_id": "sfero-378af",
+    "storage_bucket": "sfero-378af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690891722604:android:7441ba3ff64816bd1d6d49",
+        "android_client_info": {
+          "package_name": "com.company.sfero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690891722604-epq26hu7e8ujudjnvr21fqa1gf9kj9c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgCK0nUmNFIh1SJBArg987s4zxeb3cEwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690891722604-epq26hu7e8ujudjnvr21fqa1gf9kj9c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
