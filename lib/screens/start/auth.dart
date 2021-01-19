@@ -91,11 +91,11 @@ class _Auth extends State<Auth> {
                   padding: EdgeInsets.symmetric(horizontal: kDefaultPaddin),
                   child: TextButton(
                     onPressed: () {
-                      if (controller.text == 'cucumber') {
+                      if (controller.text == 'и') {
                         globals.userState = true;
                         Navigation(context);
                       }
-                      if (controller.text == 'pengven') {
+                      if (controller.text == 'а') {
                         globals.userState = false;
                         Navigation(context);
                       } else {
