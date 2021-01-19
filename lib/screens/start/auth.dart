@@ -72,10 +72,10 @@ class _Auth extends State<Auth> {
                         ]),
                       ),
                       onSubmitted: (value) {
-                        if (value == 'cucumber') {
+                        if (value == 'и') {
                           globals.userState = true;
                           Navigation(context);
-                        } else if (value == 'pengven') {
+                        } else if (value == 'а') {
                           globals.userState = false;
                           Navigation(context);
                         } else {
